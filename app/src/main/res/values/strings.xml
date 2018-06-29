@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- Header text for the list of toppings (CHAR LIMIT = 20] -->
+    <string name="title">HIV/AIDS QUIZ</string>
+
+    <!-- Background image -->
+    <string name="bg_image">Background Image</string>
+
+
+
+    <!-- TextView for Question 1 -->
+    <string name="question1_text_view">(1) The following body fluids can contain HIV virus except</string>
+
+    <!-- 1st Radio Button for Question 1 -->
+    <string name="question1_radio1_button">Semen</string>
+
+    <!-- 2nd Radio Button for Question 1 -->
+    <string name="question1_radio2_button">Breast Milk</string>
+
+    <!-- 3rd Radio Button for Question 1 -->
+    <string name="question1_radio3_button">Sweat</string>
+
+    <!-- 4th Radio Button for Question 1 -->
+    <string name="question1_radio4_button">Blood</string>
+
+
+
+
+    <!-- TextView for Question 2 -->
+    <string name="question2_text_view">(2) HIV can be transmitted by </string>
+
+    <!-- 1st Radio Button for Question 2 -->
+    <string name="question2_checkbox1_button">Sharing toilet/bathroom facilities</string>
+
+    <!-- 2nd Radio Button for Question 2 -->
+    <string name="question2_checkbox2_button">Sharing sharp objects/instruments</string>
+
+    <!-- 3rd Radio Button for Question 2 -->
+    <string name="question2_checkbox3_button">Sharing eating utensils</string>
+
+    <!-- 4th Radio Button for Question 2 -->
+    <string name="question2_checkbox4_button">Breastfeeding</string>
+
+
+
+    <!-- TextView for Question 3 -->
+    <string name="question3_text_view">(3)  Sexually transmitted infection increases both transmission and acquisition of HIV </string>
+
+    <!-- 1st Radio Button for Question 3 -->
+    <string name="question3_radio1_button">True</string>
+
+    <!-- 2nd Radio Button for Question 3 -->
+    <string name="question3_radio2_button">False</string>
+
+
+
+    <!-- TextView for Question 4 -->
+    <string name="question4_text_view">(4) ART means </string>
+
+    <!-- 1st Radio Button for Question 4 -->
+    <string name="question4_radio1_button">Absorbed Resistant Therapy</string>
+
+    <!-- 2nd Radio Button for Question 4 -->
+    <string name="question4_radio2_button">Anti Response Therapy</string>
+
+    <!-- 3rd Radio Button for Question 4 -->
+    <string name="question4_radio3_button">Antiretroviral Therapy</string>
+
+    <!-- 4th Radio Button for Question 4 -->
+    <string name="question4_radio4_button">Anti Reproductive Therapy</string>
+
+
+
+    <!-- TextView for Question 5 -->
+    <string name="question5_text_view">(5) HIV status can be checked by except </string>
+
+    <!-- 1st Radio Button for Question 5 -->
+    <string name="question5_radio1_button">A home test kit</string>
+
+    <!-- 2nd Radio Button for Question 5 -->
+    <string name="question5_radio2_button">A blood test</string>
+
+    <!-- 3rd Radio Button for Question 5 -->
+    <string name="question5_radio3_button">A DNA test</string>
+
+    <!-- 4th Radio Button for Question 5 -->
+    <string name="question5_radio4_button">Examining the eyes</string>
+
+
+
+    <!-- TextView for Question 6 -->
+    <string name="question6_text_view">(6) Prevention of HIV can be done by the following except </string>
+
+    <!-- 1st Radio Button for Question 6 -->
+    <string name="question6_radio1_button">Using a new needle</string>
+
+    <!-- 2nd Radio Button for Question 6 -->
+    <string name="question6_radio2_button">Abstinence from sexual intercouse</string>
+
+    <!-- 3rd Radio Button for Question 6 -->
+    <string name="question6_radio3_button">Being faithful to a sexual partner</string>
+
+    <!-- 4th Radio Button for Question 6 -->
+    <string name="question6_radio4_button">Not hugging people especially those you know have HIV or AIDS</string>
+
+
+
+    <!-- TextView for Question 7 -->
+    <string name="question7_text_view">(7)  The following is(are) true as regards HIV and AIDS except </string>
+
+    <!-- 1st Radio Button for Question 7 -->
+    <string name="question7_radio1_button">HIV is a virus while AIDS is a syndrome</string>
+
+    <!-- 2nd Radio Button for Question 7 -->
+    <string name="question7_radio2_button">HIV and AIDS are the same</string>
+
+    <!-- 3rd Radio Button for Question 7 -->
+    <string name="question7_radio3_button">AIDS is when the immune system has been damaged by HIV</string>
+
+    <!-- 4th Radio Button for Question 7 -->
+    <string name="question7_radio4_button">Persons with AIDS are susceptible to other health problems</string>
+
+
+
+    <!-- TextView for Question 8 -->
+    <string name="question8_text_view">(8) HIV is Curable </string>
+
+    <!-- 1st Radio Button for Question 7 -->
+    <string name="question8_radio1_button">True</string>
+
+    <!-- 2nd Radio Button for Question 7 -->
+    <string name="question8_radio2_button">False</string>
+
+
+    <!-- TextView for Question 9 -->
+    <string name="question9_text_view">(9) The full meaning of HIV is </string>
+
+    <!-- EditText View Answer for Question 9 -->
+    <string name="edit1_text_view">Type answer here </string>
+
+
+    <!-- TextView for Question 10 -->
+    <string name="question10_text_view">(10) The meaning of AIDS is </string>
+
+
+    <!-- EditText View Answer for Question 10 -->
+    <string name="edit2_text_view">Type answer here </string>
+
+
+    <!--Button for submitting answer to the quiz -->
+    <string name="submit_answer_button"> Submit Quiz </string>
+
+    <!--Button for restarting the quiz -->
+    <string name="restart_button"> Restart </string>
+
+    <!--Button for restarting the quiz -->
+    <string name="check_answer"> Answers </string>
+
+    <!--Textview title for displaying answer to the quiz -->
+    <string name="answer_text_view"> The Score is  </string>
+
+
+
+
+
+</resources>
